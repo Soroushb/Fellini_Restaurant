@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body {
+    margin: 20px;
+    background-color: #F2FCF0;
+}
+
+.hero-section{
+    color: bisque;
+}
+
+form{
+    margin: 30px;
+    width: 30%;
+}
+
+.title{
+    font-family: "Bebas Neue", sans-serif;
+    color: #008C45;
+    margin: 30px;
+}
+
+#services h2{
+    font-family: "Bebas Neue", sans-serif;
+    color: #008C45;
+    padding-bottom: 20px;
+}
+
+#services h4{
+    color: #CF0E0E;
+}
+
+
+footer {
+    display: block;
+    text-align: center;
+    padding: 3px;
+    background-color: #1c2a22;
+    color: #b69b67;
+  }
+
+nav{
+    padding-top: 20px;
+}
+
+html{
+    background-color: black;
+    color: blue;
+}
+
+.jumbotron {
+    background: url("https://wallpaperaccess.com/full/462860.jpg") no-repeat center;
+    padding: 120px;
+}
+
+
+.jumbotron2{
+    background: url("https://files.wallpaperpass.com/2019/10/food%20wallpaper%20144%20-%201920x1080.jpg") no-repeat center;
+
+}
+
+
+
+.jumbotron2 h1{
+    color: bisque;;
+    padding: 120px;
+}
+
+.btn-primary {
+    background-color: #c60063 !important;
+    border-color: #c60063 !important;
+}
+
+#top-meal h2{
+    font-family: "Bebas Neue", sans-serif;
+    padding-bottom: 30px;
+    color: #008C45;
+}
+
+.divider{
+    color: #CF0E0E;
+}
+
+
+#top-meal h4{
+    color: #CF0E0E;
+}
+
+.card{
+border-color: #008C45;
+}
+
+footer a{
+    color: #F2FCF0;
+}
+
+footer{
+    padding-left: 60px;
+    color: #F2FCF0;
+}
+
+#social{
+    display: grid;
+    padding-left: 80%;
+}
+
+#title-footer{
+    padding-left: 40px;
+}
+
+.foodCat{
+    color: #008C45;
+}
+#dashboardMessage{
+ 
+    font-family: "Bebas Neue", sans-serif;
+    color: #008C45;
+}
+
